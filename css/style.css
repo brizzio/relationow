@@ -1,0 +1,65 @@
+#van{
+    width:100%;
+    position: relative;
+}
+
+#logo{
+    height:100px;
+    position:absolute;
+    top: 50px;
+    left:40px;
+
+}
+
+.menu-intro{
+    position:absolute;
+    top: 35px;
+    left:140px;
+    color: black;
+    font-size: 15px;
+    background-color:rgba(255, 255, 255, 0.4);;
+    
+}
+
+.menu-intro li{
+    margin-bottom:10px;
+    padding-left: 20px;
+    color:black;
+}
+
+.txt{
+    position:absolute;
+    width:550px;
+    top: 150px;
+    left:40px;
+    color: white;
+    font-size: 55px;
+    background-color:rgba(0, 0, 0, 0.3);;
+    padding:10px;
+    line-height: 0.9;
+}
+
+#index-banner{
+    background-color:lightgray;
+    height:100%;
+
+}
+
+#quo{
+    width:100%;
+}
+
+
+#menu2{
+    top:300px;
+}
+
+#menu3{
+    top:400px;
+}
+.inicio{
+   
+    height: 100%;
+}
+
+
